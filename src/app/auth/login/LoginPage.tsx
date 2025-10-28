@@ -63,7 +63,7 @@ export default function LoginPage() {
           <div className="mb-8">
             <div className="flex items-center gap-3 mb-6">
               <Car className="w-8 h-8 text-neutral-400" />
-              <h1 className="text-2xl font-bold text-white">Car Sales</h1>
+              <h1 className="text-2xl font-bold text-white">revvdigital</h1>
             </div>
             <h2 className="text-xl text-neutral-300">Sign in to continue</h2>
           </div>
